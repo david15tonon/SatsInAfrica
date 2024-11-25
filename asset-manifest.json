@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/SatsInAfrica/static/css/main.e7bfd684.css",
-    "main.js": "/SatsInAfrica/static/js/main.8063bf2b.js",
+    "main.css": "/SatsInAfrica/static/css/main.b4907ba8.css",
+    "main.js": "/SatsInAfrica/static/js/main.5f186330.js",
     "static/js/453.0beef4d8.chunk.js": "/SatsInAfrica/static/js/453.0beef4d8.chunk.js",
     "index.html": "/SatsInAfrica/index.html",
-    "main.e7bfd684.css.map": "/SatsInAfrica/static/css/main.e7bfd684.css.map",
-    "main.8063bf2b.js.map": "/SatsInAfrica/static/js/main.8063bf2b.js.map",
+    "main.b4907ba8.css.map": "/SatsInAfrica/static/css/main.b4907ba8.css.map",
+    "main.5f186330.js.map": "/SatsInAfrica/static/js/main.5f186330.js.map",
     "453.0beef4d8.chunk.js.map": "/SatsInAfrica/static/js/453.0beef4d8.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.e7bfd684.css",
-    "static/js/main.8063bf2b.js"
+    "static/css/main.b4907ba8.css",
+    "static/js/main.5f186330.js"
   ]
 }
